@@ -9,6 +9,7 @@
 - Python (Basics + Data Handling)
 - SQL (Basic Queries)
 - MS Office
+- POWER BI
 - Computer Networking (CCNA)
 
 ## 📈 Projects
@@ -17,4 +18,4 @@
 - 🧮 Student Result Analysis System
 
 ## 📫 Connect With Me
-LinkedIn: (Add your link here)
+LinkedIn: www.linkedin.com/in/aditya-kumar-216857248
